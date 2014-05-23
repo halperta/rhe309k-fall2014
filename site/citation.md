@@ -2,9 +2,7 @@
 layout: default
 title: Citation
 ---
-
-##Style Cheat Sheet
-###APA formatting
+##APA formatting
 All graded assignments should be properly formatted according to APA standards.
 
 Your essay should be typed on standard-sized paper (8.5" x 11") with 1" margins on all sides. You should use a clear font that is highly readable. APA recommends using 12 pt. Times New Roman font.
@@ -13,7 +11,7 @@ Include a page header  (also known as the "running head") at the top of every pa
 
 You do not need a title page. Use 1.5 spacing.
 
-###APA in-text citations
+##APA in-text citations
 
 See [Purdue OWL's guide to in-text citations.](https://owl.english.purdue.edu/owl/resource/560/02/)
 

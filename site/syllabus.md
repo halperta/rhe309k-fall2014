@@ -14,7 +14,7 @@ title: Syllabus
 
 ## Instructor Contact Information
 [Hannah Alpert-Abrams](http://www.halperta.com)  
-**office hours:** TBD or by appointment 
+**office hours:** TBD or by appointment  
 **office:** FAC16  
 **email:** halperta@gmail.com  
 **[download cv](documents/alpertAbramsCV.pdf)** 
@@ -25,9 +25,9 @@ This page offers a brief summary of the syllabus. The [complete syllabus](docume
 
 _Textbooks_
 
-* Graff, G., & Birkenstein, C. *They Say, I Say.* (2007) New York: W. W. Norton and Company.  
-* Lunsford, A. *Easy Writer.* (2010) Fourth Edition. Boston: Bedford/Martin’s.  
-* Mukherjee, S. *The Best American Science and Nature Writing: 2013.* (2013.) New York: Mariner Books.  
+* Graff, G., & Birkenstein, C. *They Say, I Say.* (2007) New York: W. W. Norton and Company.  (978-0393933611)
+* Lunsford, A. *Easy Writer with 2009 MLA and 2010 APA Updates: A Pocket Reference.* (2011). Boston: Bedford/Martin’s. (9780312650315) 
+* Mukherjee, S. *The Best American Science and Nature Writing: 2013.* (2013.) New York: Mariner Books.  (978-0544003439 )
 
 
 ##Coursework
@@ -50,18 +50,18 @@ Students will write and revise one 4-7 page analytic essay. They will write and 
 
 This class will use the university plus/minus grading scale for assignment and final grades. 
 
-A	=	94-100  
-A-	=	90-93  
-B+	=	87-89  
-B	=	84-86  
-B-	=	80-83  
-C+	=	77-79  
-C	=	74-76  
-C-	=	70-73  
-D+	=	67-69  
-D	=	64-66  
-D-	=	60-63  
-F	=	0-60  
+	A	=	94-100  
+	A-	=	90-93  
+	B+	=	87-89  
+	B	=	84-86  
+	B-	=	80-83  
+	C+	=	77-79  
+	C	=	74-76  
+	C-	=	70-73  
+	D+	=	67-69  
+	D	=	64-66  
+	D-	=	60-63  
+	F	=	0-60  
 
 
 ###Late Work
@@ -73,33 +73,19 @@ Late Work:  Late work is penalized according to the following scale:
 
 All Research Summaries and Essays must contain the following information. Missing information will be penalized in the following manner:
 * Name (upper left corner): 2 points
-
 * Date (upper left corner): 2 points
-
 * Rhetoric 309k (upper left corner): 2 points
-
 * Title: top center: 2 points
-
 * Page numbers: 2 points
-
 * Proper Formatting:
-
 	* RS: 1.5 spaced, Times New Roman or Garamond fonts: 2 points
-
 	* Essay: 1.5 spaced, Times New Roman or Garamond fonts: 2 points
-
 	* Note: essays written in more than one font will receive a 7-point penalty.
-
 * Proper APA Citation: 
-
 	* Every submitted paper must have references to be accepted. Missing references result in resubmission, plus a 10% penalty.
-
 	* Research Summary Citation: Above title 
-
 	* Essay citation: On “references” page 
-
 	* Formatting errors: -1 point for each error
-
 	* Content errors: -3 points for each error
 
 
