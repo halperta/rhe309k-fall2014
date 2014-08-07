@@ -64,18 +64,22 @@ Your essay will be evaluated on the following criteria (10 points each)
 * Have in-text APA citations and a References page (note: absence of citations will result in a request for resubmission, plus a 10-point penalty.)
 
 ###Parameters
+
+Your paper must meet the following parameters, evaluated as shown below:
 * Name (upper left corner): 2 points
 * Date (upper left corner): 2 points
 * Rhetoric 309k (upper left corner): 2 points
 * Running Head (short title, all caps, in header): 2 points
 * Title: top center: 2 points
-* Page numbers: 2 points
-* Proper Formatting:
-	* Essay: 1.5 spaced, Times New Roman or Garamond fonts: 2 points
-	* Note: essays written in more than one font will receive a 7-point penalty.
-* Proper APA Citation: 
-	* Citations on Reference Page: 3 points
-	* Reference page separated using a "page break": 1 point
-	* Formatting errors: -1 point for each error
-	* Content errors: -3 points for each error
+* Page numbers: 2 points  
+
+Proper Formatting:
+* Times New Roman or Garamond fonts, 1.5 spacing: 2 points
+* Note: essays written in more than one font will receive a 7-point penalty. 
+
+Proper APA Citation: 
+* Citations on Reference Page: 3 points
+* Reference page separated using a "page break": 1 point
+* Formatting errors: -1 point for each error
+* Content errors: -3 points for each error
 

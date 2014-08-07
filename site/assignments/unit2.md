@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unit Two
+title: Unit Two: Scientific Rhetoric
 root: "../"
 ---
 [Back to "Assignments"](index.html)  
