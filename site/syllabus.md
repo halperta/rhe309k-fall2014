@@ -44,7 +44,7 @@ You will be graded on the following assignments this term:
  	
 ###Major Assignments
 
-Students will write and revise one 4-7 page analytic essay. They will write and revise a publishing portfolio containing one interview and three articles. They will also complete a research proposal, an interview proposal, and two short writing assignments.
+Students will write and revise one 4-7 page analytic essay. They will write and revise a publishing portfolio containing one interview profile and three articles. They will also complete a research proposal, an interview, and two short writing assignments. They will also present their research to the class.
 
 ##Grading
 

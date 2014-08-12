@@ -14,9 +14,9 @@ Graded assignments are due as word documents via canvas by noon.
 **Th: Aug 28**  
 
 **T:   Sept 2**  
-**Th: Sept 4**   Due: read Wakefield et. al., "Ileal-lymphoid nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children" and complete [article review]({{ page.root }}assignments/r1.html). Due, printed, in class.    
+**Th: Sept 4**   Due: read [Wakefield et. al., "Ileal-lymphoid nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children"](http://www.sciencedirect.com/science/article/pii/S0140673697110960) and complete [article review]({{ page.root }}assignments/r1.html). Due, printed, in class.    
 
-**T:   Sept 9**  Due: [Wikipedia worksheet]({{ page.root }}assignments/wikipedia.html)  
+**T:   Sept 9**  Due: [Wikipedia worksheet.docx]({{ page.root }}assignments/wikipedia.docx)  
 **Th: Sept 11**  Due: read [Kennedy, Deadly Immunity]({{ page.root }}documents/rfk-immunity.pdf) and complete [worksheet]({{ page.root }}documents/logosWorksheet.docx)  
 
 **T:   Sept 16**  Due: draft of [Rhetorical Analysis worksheet]({{ page.root }}assignments/r2.html), printed, in class.    
