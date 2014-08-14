@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research Summary 1
+title: Popular Article Analysis
 root: "../"
 ---
 [Back to "Assignments"](index.html)  

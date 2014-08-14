@@ -7,7 +7,32 @@ root: "../"
 [Back to "Schedule"]({{ page.root }}schedule.html)  
 
 ##Assignment
-Complete the [Research Proposal worksheet]({{ page.root }}documents/proposal.docx)  
+In this course, you will conduct research on a single scientific controversy, and then write a series of articles for different forums about your chosen topic. This will involve learning about the subtleties of the controversy, learning about the appropriate audiences and writing styles for different forums, and experimenting with different voices.  
+
+For this assignment, you will conduct preliminary research on your controversy of choice, and complete the [Research Proposal worksheet]({{ page.root }}documents/proposal.docx).  
+
+## Selecting a topic
+A topic is a broad area of research that piques your interest. You may be a biologist interested in bioengineering; you may be a computer scientist interested in artificial intelligence; you may be an English major curious about global warming. Your topic does not have to be related to your major, but it should be something you care about.
+
+##Defining a controversy
+Not all aspects of your topic will be controversial: to define your controversy, you'll need to focus on an aspect of the topic that has led to a prolonged public debate. For the purposes of this course, your scientific controversy must use scientific research to provide evidence for at least one position. To be current, the controversy must refer to research conducted in the last three years, and there must be at least one credible article on the subject published in the past year. A scientific controversy might be, for example, whether or not children with ADHD should be medicated. It might be whether or not fracking should be legal. 
+
+You will find this assignment far more interesting if your topic is currently "hot." For ideas, check out the following resources:
+* [College of Natural Science at UT](http://cns.utexas.edu/news/latest)
+* [Science Magazine](http://news.sciencemag.org/)
+* [Scientific American](http://www.scientificamerican.com/)
+* [New York Times: Science](http://www.nytimes.com/pages/science/index.html)
+* [NPR: Science](http://www.npr.org/sections/science/)
+* [Wired: Science](http://www.wired.com/science)
+
+##Conducting Preliminary Research
+The Wikipedia Worksheet should be helpful in preparing for this assignment. You may also find the following research tools useful:
+* [UT Library online catalogue](lib.utexas.edu)
+* UT Databases, including
+	* LexisNexis: for broad searches of print newspapers
+	* ebscohost, sciencedirect, academic search premier: for original science articles
+* UT Libraries Research Staff: Their job is to help you find things! You can schedule an appointment here:
+	* http://www.lib.utexas.edu/services/reference/appt.html
 
 ##Evaluation
 You will be evaluated based on the folowing criteria:

@@ -16,6 +16,9 @@ Researcher’s name, e-mail address
 Researcher's position, Researcher's department  
 Researcher’s area of study  
 
+##Description
+In 1-2 paragraphs, explain why this researcher will be an interesting subject for your article.  
+
 ##Bio
 Find the researcher’s CV to complete this section:
 Researcher’s doctoral alma mater:
@@ -27,10 +30,11 @@ Researcher’s prior work experience:
 
 List the researcher’s most recent three publications, in APA format. Underneath each citation, copy and paste the article’s abstract.
 
-
-
 ##Web Presence
 *Google the researcher. Does anything come up? If so, provide links to any professionally relevant articles or websites (a blog? An interview? A news article?) here.*
+
+##E-mail
+Copy a draft of the e-mail you intend to send requesting an interview. 
 
 ##Parameters
 

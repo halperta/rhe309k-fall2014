@@ -23,30 +23,46 @@ title: Syllabus
 
 This page offers a brief summary of the syllabus. The [complete syllabus](documents/309k-syllabus.pdf) is also available on this website.
 
-_Textbooks_
+##General Information
+
+###Coursework
+You will be graded on the following assignments this term:
+  
+	Research Summaries: 10%  
+		Scientific article analysis
+		Popular article analysis
+		Interview prep worksheet
+		Research proposal
+	Rhetorical Analysis 1.1: 10%  
+	Rhetorical Analysis 1.2: 10%   
+	Portfolio drafts: 40%
+		Interview: 5%
+		Researcher Profile: 10%
+		Blog: 5%
+		Op-Ed: 10%
+		Feature: 10%  
+	Final Portfolio: 20%  
+	Final Presentations: 10%  
+ 	
+###Major Assignments
+
+Students will write and revise one 4-7 page analytic essay. They will write and revise a publishing portfolio containing one interview profile and three articles. They will also complete a research proposal, an interview preparation worksheet, and two short writing assignments. They will also present their research to the class.
+
+###Accomodation Statement
+
+This course takes seriously accessibility for all students. If there are circumstances that may affect your performance in this class, please let me know as soon as possible so that we can work together to develop strategies for adapting assignments to meet both your needs and the requirement of the course. 
+
+Any student with a documented disability who requires academic accommodations should contact Services for Students with Disabilities at 512-471-6259 (voice) or 1-866-329-3986 (video phone) as soon as possible to request an official letter outlining authorized accommodations. More information is available online at http://www.utexas.edu/diversity/ddce/ssd. If you do not have a documented disability, remember that other support services, including the [Writing Center](uwc.utexas.edu), are available to all students.
+
+##Course Specifics
+
+###Textbooks
 
 * Graff, G., & Birkenstein, C. *They Say, I Say.* (2007) New York: W. W. Norton and Company.  (978-0393933611)
 * Lunsford, A. *Easy Writer with 2009 MLA and 2010 APA Updates: A Pocket Reference.* (2011). Boston: Bedford/Martin’s. (9780312650315) 
 * Mukherjee, S. *The Best American Science and Nature Writing: 2013.* (2013.) New York: Mariner Books.  (978-0544003439 )
 
-
-##Coursework
-You will be graded on the following assignments this term:
-
-	Oral presentations: 10%  
-	Research Summaries: 10%  
-	Essay 1.1: 10%  
-	Essay 1.2: 10%  
-	Interview Report: 10%  
-	Researcher Profile: 10%  
-	Portfolio drafts: 20%  
-	Final Portfolio: 20%  
- 	
-###Major Assignments
-
-Students will write and revise one 4-7 page analytic essay. They will write and revise a publishing portfolio containing one interview profile and three articles. They will also complete a research proposal, an interview, and two short writing assignments. They will also present their research to the class.
-
-##Grading
+###Grading
 
 This class will use the university plus/minus grading scale for assignment and final grades. 
 
@@ -71,6 +87,8 @@ Late Work:  Late work is penalized according to the following scale:
 * 3-5 days: -10% for each additional day.
 * More than 5 days: no credit.
 
+###Parameters
+
 All Research Summaries and Essays must contain the following information. Missing information will be penalized in the following manner:
 * Name (upper left corner): 2 points
 * Date (upper left corner): 2 points
@@ -88,8 +106,9 @@ All Research Summaries and Essays must contain the following information. Missin
 	* Formatting errors: -1 point for each error
 	* Content errors: -3 points for each error
 
+##Course Policies
 
-##Attendance Policy
+###Attendance Policy
 
 You are expected to attend class, to arrive on time, to have prepared assigned reading and writing, and to participate in all in-class editing, revising, and discussion sessions. Should you miss the equivalent of five class sessions, excused or not, you will fail the course. 
 
@@ -98,14 +117,13 @@ This is a departmental policy. See the complete syllabus for a more detailed att
 ###Tardiness
 If you miss roll call, you are responsible for making sure your attendance is marked. Three cases of extreme tardiness (10 minutes or more) will count as an absence.
 
-##Scholastic Honesty, Plagiarism, and Collusion
+###Scholastic Honesty, Plagiarism, and Collusion
 
 Turning in work that is not your own, or any other form of scholastic dishonesty, will result in a major course penalty, possibly failure of the course. This standard applies to all drafts and assignments, and a report of the incident will be submitted to the Office of the Dean of Students and filed in your permanent UT record.
 
 See the complete syllabus for a more detailed scholastic honesty and plagiarism policy.
 
-##Students With Disabilities
-Any student with a documented disability who requires academic accommodations should contact Services for Students with Disabilities at 512-471-6259 (voice) or 1-866-329-3986 (video phone) as soon as possible to request an official letter outlining authorized accommodations. More information is available online at http://www.utexas.edu/diversity/ddce/ssd.
+
 
 
 

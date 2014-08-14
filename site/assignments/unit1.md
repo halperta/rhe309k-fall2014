@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Unit One: Scientific Truth
+title: Unit One - Scientific Truth
 root: "../"
 ---
 [Back to "Assignments"](index.html)  

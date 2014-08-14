@@ -7,23 +7,11 @@ root: "../"
 [Back to "Schedule"]({{ page.root }}schedule.html)  
 
 ##General
-Scientific studies produce specific and clear results, but popular culture uses those results to produce wildly varied interpretations, and to persuade their audience of a multitude of different positions. Your purpose in this 4-6 page essay (1200-1800 words) is to compare two articles that take different positions regarding a single study. Your goal is to understand what persuasive strategies the authors use to make their point. Your thesis should address the question: *how are the persuasive strategies in these two articles similar or different, and why?* Your essay should then answer this question by providing a close analysis of the two articles.
+Scientific studies produce specific and clear results, but popular culture uses those results to produce wildly varied interpretations, and to persuade their audience of a multitude of different positions. Your purpose in this 4-6 page essay (1200-1800 words) is to compare two articles that take different positions regarding a single aspect of vaccination use. Your goal is to understand what persuasive strategies the authors use to make their point. Your thesis should address the question: *how are the persuasive strategies in these two articles similar or different, and why?* Your essay should then answer this question by providing a close analysis of the two articles.
 
 ##Specifics
-###Defining a controversy
-For the purposes of this course, a scientific controversy is a public debate that uses scientific research to provide evidence for at least one position. To be current, the controversy must refer to research conducted in the last three years, and there must be at least one credible article on the subject published in the past year. A scientific controversy might be, for example, whether or not children with ADHD should be medicated. It might be whether or not fracking should be legal.
-
-For ideas, check out the following resources:
-* [College of Natural Science at UT](http://cns.utexas.edu/news/latest)
-* [Science Magazine](http://news.sciencemag.org/)
-* [Scientific American](http://www.scientificamerican.com/)
-* [New York Times: Science](http://www.nytimes.com/pages/science/index.html)
-* [NPR: Science](http://www.npr.org/sections/science/)
-* [Wired: Science](http://www.wired.com/science)
-
-
 ###Choosing articles
-To be effective for this essay, your articles must take different positions on a single controversy. They should also both have at least one reference in common; in other words, they might both provide evidence from the same scientific study, or refer to the same new policy, or speech, or law. Finally, they should both be published in the past year.  
+You must choose two articles related to a single aspect of the vaccination debate. To be effective for this essay, your articles must take different positions on a single controversy. They should also both have at least one reference in common; in other words, they might both provide evidence from the same scientific study, or refer to the same new policy, or speech, or law. Finally, they should both be published in the past year.  
 
 ###Conducting the analysis
 Before you begin writing, you are advised to conduct a rhetorical analysis using the following worksheets:
