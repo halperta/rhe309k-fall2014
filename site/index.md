@@ -3,7 +3,7 @@ layout: default
 title: Rhetoric of Science Writing
 ---
 
-<img src="images/phdcomics_news-cycle.jpg" alt="PhD Comics: Science News Comic" width="450" height="450">
+<!--<img src="images/phdcomics_news-cycle.jpg" alt="PhD Comics: Science News Comic" width="450" height="450">-->
 
 
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research Summary 1
+title: Scientific article analysis
 root: "../"
 ---
 [Back to "Assignments"](index.html)  
@@ -11,9 +11,9 @@ This graded assignment asks you to conduct a careful analysis of a scientific ar
 ##Specifics
 In this assignment you are asked to read the article:
 
-	Wakefield, A. J., Murch, S. H., Anthony, A., Linnell, J., Casson, D. M., Malik, M.,... Walker-Smith, J. A. (1998, February 28). Ileal-lymphoid nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children. *The Lancet, 351*, 637-641. www.sciencedirect.com
+[Wakefield, A. J., Murch, S. H., Anthony, A., Linnell, J., Casson, D. M., Malik, M.,... Walker-Smith, J. A. (1998, February 28). Ileal-lymphoid nodular hyperplasia, non-specific colitis, and pervasive developmental disorder in children. *The Lancet, 351*, 637-641. Retrieved from www.sciencedirect.com](http://www.sciencedirect.com/science/article/pii/S0140673697110960)
 
-You should then complete the [article review]({{ page.root }}/documents/articleReview.docx). The assignment has been adapted from [an article by Jennifer Raff](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/). 
+You should then complete the [article analysis]({{ page.root }}/documents/articleAnalysis.docx). The assignment has been adapted from [an article by Jennifer Raff](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/). 
 
 You *are not expected to understand everything in the article.* You do not need to know exactly what patchy erythema, lymphoid nodular hyperplasia, or other specifics are. You should, however, know why the authors are looking at these things, and what finding them (or not) means for the study.
 

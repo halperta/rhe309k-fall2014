@@ -6,20 +6,23 @@ root: "../"
 [Back to "Assignments"](index.html)  
 [Back to "Schedule"]({{ page.root }}schedule.html)  
 
-For your rhetorical analysis, you will be asked to compare the persuasive strategies of two texts that take a position on your controversy. For this assignment, you are asked to complete the "graphic organizer" worksheet for each of your chosen articles. Then, write a 300-350 word paper in which you compare their use of scientific research.
+For your rhetorical analysis, you will be asked to compare the persuasive strategies of two texts that take a position on your controversy. For this assignment, you are asked to complete the "science worksheet" worksheet for one of your chosen articles. Then, write a 300-350 word paper in which you analyze the article's use of rhetorical devices.
 
 ##Specifics
-This research summary must be accompanied by a completed [Science Worksheet]({{ page.root }}documents/scienceWorksheet.docx) for each article.  
+This research summary must be accompanied by a completed [Science Worksheet]({{ page.root }}documents/scienceWorksheet.docx) for your article.  
 
 This research summary must include three sections:  
 
-In the first section of your summary, *briefly* introduce your controversy and chosen sources.  
+In the first section of your summary, *briefly* introduce the controversy and your chosen source.
 
-In the second part of your summary, compare how the two articles evoke science, using 2-3 examples from each article. Your subject for analysis might include the kinds of studies being cited, the language used to describe the studies, or the way that those studies are used to construct a logical argument. 
+In the second part of your summary, describe how your article uses science as a persuasive strategy (or not!), using 3-4 examples. Your subject for analysis might include the kinds of studies being cited, the language used to describe the studies, or the way that those studies are used to construct a logical argument. 
 
-For each example, introduce a hypothesis about how the example is being used rhetorically in each article. Describe the example by paraphrasing or quoting directly. Interpret the element to explain how the article is using scientific discourse. Repeat for the second article. 
+For each example, you'll need to both clearly describe the example (using quotes if necessary) and provide a hypothesis that explains the persuasive purpose of the example. Consider writing each paragraph in the form of a "quotation sandwich":
+* Introduce your hypothesis
+* Describe your example (with quotes as necessary)
+* Interpret the example to explain how the article uses scientific discourse as a persuasive strategy.
 
-In your conclusion, sum up your analysis by offering a hypothesis for why the articles use the different strategies that you observed.
+To conclude, think briefly about the article more broadly. What does this analysis reveal about the article? About its position?
 
 
 ##Evalution
@@ -50,3 +53,4 @@ Proper APA Citation:
 * Formatting errors: -1 point for each error
 * Content errors: -3 points for each error
 
+Science Worksheet: should be completed for each article. 5 points per article.

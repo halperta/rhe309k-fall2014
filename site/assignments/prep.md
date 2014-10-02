@@ -7,34 +7,39 @@ root: "../"
 [Back to "Schedule"]({{ page.root }}schedule.html)   
 
 ##Assignment
-The interview prep worksheet must be completed prior to conducting the interview. You can [download the word document]({{ page.root }}documents/interview-prep.docx) here.
+The interview prep worksheet must be completed prior to conducting the interview. You can [download the word document]({{ page.root }}documents/Interview-prep.docx) here.
  
-##Intro
+###Intro
 *Find the researcher’s university bio to complete this section*  
 Link to researcher’s university bio  
 Researcher’s name, e-mail address   
 Researcher's position, Researcher's department  
 Researcher’s area of study  
 
-##Description
+###Description
 In 1-2 paragraphs, explain why this researcher will be an interesting subject for your article.  
 
-##Bio
+###Bio
 Find the researcher’s CV to complete this section:
 Researcher’s doctoral alma mater:
 Researcher’s year of graduation (PhD):
 Researcher’s prior work experience:
 
-##Research
+###Research
 *Use the researcher’s website and CV to find this information. Also try the library website if necessary.*  
 
 List the researcher’s most recent three publications, in APA format. Underneath each citation, copy and paste the article’s abstract.
 
-##Web Presence
+###Web Presence
 *Google the researcher. Does anything come up? If so, provide links to any professionally relevant articles or websites (a blog? An interview? A news article?) here.*
 
-##E-mail
+###E-mail
 Copy a draft of the e-mail you intend to send requesting an interview. 
+
+### Evaluation
+You will be evaluated based on:
+* Completion: did you complete all the sections of the worksheet?
+* Thoroughness: did you conduct sufficient research for each section?
 
 ##Parameters
 

@@ -7,7 +7,7 @@ root: "../"
 [Back to "Schedule"]({{ page.root }}schedule.html)  
 
 ##General
-How do you ethically inform a general audience about the controversy that you have been researching? [Unit 3](unit3.html) asks you to build a portfolio of articles about science for different publication contexts. In each case, you should be writing about your chosen controversy, providing information about the studies that you have focused on, and taking a position related to your controversy. That position may be research-based  ("current research is inadequate"), it may be knowledge based ("thanks to research, we know that..."), or it may be policy-based ("based on current research, our best course of action is to...").
+How do you ethically inform a general audience about the controversy that you have been researching? This course asks you to build a portfolio of articles about science for different publication contexts. In each case, you should be writing about your chosen controversy, providing information about the studies that you have focused on, and taking a position related to your controversy. That position may be research-based  ("current research is inadequate"), it may be knowledge based ("thanks to research, we know that..."), or it may be policy-based ("based on current research, our best course of action is to...").
 
 In this assignment, you will write an 650-900 word blog post for a popular news venue like CNN, BBC, Fox News, etc. First, you are asked to complete a [style worksheet]({{ page.root }}documents/styleWorksheet.docx) for your chosen news venue. Then, write an article about your controversy following the style of the venue.
 
@@ -22,10 +22,8 @@ Your essay will be evaluated on the following criteria (10 points each)
 For a C or above, your essay must:
 * Be 650-900 words  
 * Take a coherent and clearly stated position, and use rhetorical strategies to argue it.   
-* Strategically and effectively refute at least 1 credible counter-argument  
 * Document all sources accurately (in-text and on a References page) according to APA style guides
-* Be written effectively and coherently, with very few punctuation or grammatical errors
-* Be accompanied by a style worksheet.  
+* Be written effectively and coherently, with very few punctuation or grammatical errors 
 
 ###Parameters
 
@@ -47,3 +45,4 @@ Proper APA Citation:
 * Formatting errors: -1 point for each error
 * Content errors: -3 points for each error
 
+Style Worksheet: failure to provide a Style Worksheet will result in a 10 point penalty.

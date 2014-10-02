@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Research Profile
+title: Researcher Profile
 root: "../"
 ---
 [Back to "Assignments"](index.html)  
 [Back to "Schedule"]({{ page.root }}schedule.html)  
 
 ##General
-In this assignment, you are asked to write a 1000-1500 word article about your researcher based on the interview that you conducted. 
+In this assignment, you are asked to write a 1000-1500 word article about your researcher based on the interview that you conducted. To enhance your research, you may choose to follow up your interview in person: a visit to a lab or classroom will give you rich descriptive details.  
 
 ##Specifics
 While the structure of this essay may vary, it should include the following elements:
@@ -23,6 +23,7 @@ Your profile will be evaluated on the following criteria (10 points each)
 * Structure: Is your structure clear and meaningful?
 * Interview integration: Are quotes and content from your interview smoothly integrated into the essay?
 * Writing: Do you write in an appropriate style, using consistent grammar, spelling, and punctuation?
+* Citation: do you make appropriate use of outside research to inform your report? Do you cite these articles correctly?  
 
 ###Parameters
 

@@ -14,18 +14,16 @@ In this assignment, you will write a 900-1200 word op-ed for a respected news ve
 ##Evalution
 Your essay will be evaluated on the following criteria (10 points each)
 * Style: To what degree does your style appropriately match the forum you are publishing in?    
-* Persuasiveness: To what degree is your argument persuasive? Are the appeals effective? Is the structure coherent? Do you provide convincing evidence? (when appropriate)    
+* Persuasiveness: To what degree is your argument persuasive? Are the appeals effective? Is the structure coherent? Do you provide convincing evidence (when appropriate)? For this assignment, you are expected to effectively combine 'scientific appeals' with emotional appeals. You should also strategically and effectively refute at least one credible counter-argument.      
 * Structure: Is your structure clear and meaningful?  
 * Writing: Do you write in an appropriate style, using consistent grammar, spelling, and punctuation?
 
 ###Minimum Requirements  
 For a C or above, your essay must:
 * Be 900-1200 words  
-* Take a coherent and clearly stated position, and use rhetorical strategies to argue it.   
-* Strategically and effectively refute at least 1 credible counter-argument  
+* Take a coherent and clearly stated position, and use rhetorical strategies to argue it.    
 * Document all sources accurately (in-text and on a References page) according to APA style guides
-* Be written effectively and coherently, with very few punctuation or grammatical errors
-* Be accompanied by a style worksheet.  
+* Be written effectively and coherently, with very few punctuation or grammatical errors 
 
 ###Parameters
 
@@ -46,4 +44,6 @@ Proper APA Citation:
 * Reference page separated using a "page break": 1 point
 * Formatting errors: -1 point for each error
 * Content errors: -3 points for each error
+
+Style Worksheet: failure to provide a Style Worksheet will result in a 10 point penalty.
 

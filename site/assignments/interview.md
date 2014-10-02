@@ -14,12 +14,12 @@ For this assignment, you will conduct an interview (over e-mail) with a scientis
 You are expected to find a scientist at UT whose work relates to your area of study. This may be a professor, a postdoctoral student, or a graduate candidate (a PhD student in their final two years of research). If you want to interview someone who doesn't fit these characteristics (for example, someone at a different university), talk to me.
 
 ###Interview Preparation
-Before conducting your interview, you are expected to submit the [interview preparation worksheet](prep.html), to be completed in class. You should have knowledge about the person you are interviewing, and a list of questions for the interview.
+Before conducting your interview, you are expected to submit the [interview preparation worksheet](prep.html). You should have knowledge about the person you are interviewing, and a list of questions for the interview.
 
 ###Conducting the interview
 You are advised to conduct the interview by e-mail. You may remain in contact with your interview subject throughout the course of this unit. Talk to me if you want to conduct an interview in person.  
 
-You are advised to send a formal e-mail to schedule the interview by October 7.  
+You are advised to send a formal e-mail to schedule the interview by October 14.  
 
 ###Writing the interview
 

@@ -21,6 +21,6 @@ You should turn in a revised essay with a cover page that has the following elem
 * For each revision goal, several sentences describing your efforts to meet your revision goal.  
 
 ##Evaluation
-You will be evaluated based exclusively on your ability to meet the three revision goals. While some goals may be fairly straightforward or minor ("Revise the wording in your introduction"), overall you are expected to make significant changes to your original paper in order to achieve these goals.
+You will be evaluated exclusively on your ability to meet the three revision goals. While some goals may be fairly straightforward or minor ("Revise the wording in your introduction"), overall you are expected to make significant changes to your original paper in order to achieve these goals.
 
 Failure to correct formatting or citation errors will result in a 10-point deducation from your final grade.

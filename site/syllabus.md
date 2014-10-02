@@ -3,6 +3,8 @@ layout: default
 title: Syllabus
 ---
 
+This page offers a brief summary of the syllabus. The [complete syllabus](documents/309k-syllabus.pdf) is also available on this website.
+
 ## Course Information
 
 **Course Name:** Rhetoric & Writing  
@@ -14,14 +16,10 @@ title: Syllabus
 
 ## Instructor Contact Information
 [Hannah Alpert-Abrams](http://www.halperta.com)  
-**office hours:** TBD or by appointment  
+**office hours:** Tuseday 3:30-4:30 and Wednesday 11-1, or by appointment  
 **office:** FAC16  
 **email:** halperta@gmail.com  
 **[download cv](documents/alpertAbramsCV.pdf)** 
-
-## Syllabus and Text
-
-This page offers a brief summary of the syllabus. The [complete syllabus](documents/309k-syllabus.pdf) is also available on this website.
 
 ##General Information
 
@@ -33,8 +31,9 @@ You will be graded on the following assignments this term:
 		Popular article analysis
 		Interview prep worksheet
 		Research proposal
-	Rhetorical Analysis 1.1: 10%  
-	Rhetorical Analysis 1.2: 10%   
+	Rhetorical Analysis: 20%
+		Rhetorical Analysis 1.1: 10%  
+		Rhetorical Analysis 1.2: 10%   
 	Portfolio drafts: 40%
 		Interview: 5%
 		Researcher Profile: 10%
@@ -123,7 +122,8 @@ Turning in work that is not your own, or any other form of scholastic dishonesty
 
 See the complete syllabus for a more detailed scholastic honesty and plagiarism policy.
 
-
+###Writing Flag
+This course carries the Writing Flag. Writing Flag courses are designed to give students experience with writing in an academic discipline. In this class, you can expect to write regularly during the semester, complete substantial writing projects, and receive feedback from your instructor to help you improve your writing. You will also have the opportunity to revise one or more assignments, and you will be asked to read and discuss your peers’ work. You should therefore expect a substantial portion of your grade to come from your written work. Writing Flag classes meet the Core Communications objectives of Critical Thinking, Communication, Teamwork, and Personal Responsibility, established by the Texas Higher Education Coordinating Board.
 
 
 

@@ -15,7 +15,7 @@ root: "../"
 [Researcher Profile]({{ page.root }}assignments/profile.html)   
 
 ##Portfolio
-[Research Proposal]({{ page.root }}assignments/proposal.html) 
+[Research Proposal]({{ page.root }}assignments/proposal.html)  
 [Blog Post]({{ page.root }}assignments/blog.html)  
 [Op-Ed]({{ page.root }}assignments/op-ed.html)  
 [Feature Article]({{ page.root }}assignments/feature.html)  
@@ -23,10 +23,10 @@ root: "../"
 [Portfolio Revisions]({{ page.root }}assignments/portfolioRevision.html)  
 
 ##Worksheets
-[Wikipedia Worksheet]({{ page.root }}documents/wikipedia.docx)  
-[Logos Worksheet]({{ page.root }}documents/logosWorksheet.docx) 
-[Pathos Worksheet]({{ page.root }}documents/pathosWorksheet.docx) 
-[Style Worksheet]({{ page.root }}documents/styleWorksheet.docx)  
+[Download: Wikipedia Worksheet]({{ page.root }}documents/wikipedia.docx)  
+[Download: Science Worksheet]({{ page.root }}documents/scienceWorksheet.docx)  
+[Download: Pathos Worksheet]({{ page.root }}documents/pathosWorksheet.docx)  
+[Download: Style Worksheet]({{ page.root }}documents/styleWorksheet.docx)  
 
 ##Templates
 [Download: template for research summaries]({{ page.root }}documents/RSTemplate.docx)  

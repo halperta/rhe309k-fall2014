@@ -11,7 +11,7 @@ Scientific studies produce specific and clear results, but popular culture uses 
 
 ##Specifics
 ###Choosing articles
-You must choose two articles related to a single aspect of the vaccination debate. To be effective for this essay, your articles must take different positions on a single controversy. They should also both have at least one reference in common; in other words, they might both provide evidence from the same scientific study, or refer to the same new policy, or speech, or law. Finally, they should both be published in the past year.  
+You must choose two articles related to a single aspect of the vaccination debate. This could be MMR and Autism, but it could also be the development of an ebola vaccination, the obligatary chickenpox vaccine; etc. To be effective for this essay, your articles must take different positions on a single controversy. They should also both have at least one reference in common; in other words, they might both provide evidence from the same scientific study, or refer to the same new policy, or speech, or law. Finally, they should both be published in the past year.  
 
 ###Conducting the analysis
 Before you begin writing, you are advised to conduct a rhetorical analysis using the following worksheets:
